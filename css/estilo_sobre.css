@@ -4,14 +4,6 @@ main{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Borda */
-.caixa{
-    margin: 20px auto;
-    border: 3px solid rgb(148, 148, 148);
-    background-color: rgba(196, 196, 196, 0.719);
-    width: 90%;
-}
-
 /* Título do tema abordado */
 #titulo{
     font-family: Arial, Helvetica, sans-serif;
