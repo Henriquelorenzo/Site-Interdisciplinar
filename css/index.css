@@ -31,6 +31,12 @@ footer{
     height: 60px;
 }
 
+/* Imagem rodapé */
+.fotos{
+    width: 80px;
+    height: 70px;
+}
+
 /*Barra de controle do site*/
 .titulo-site{
     color:white;
